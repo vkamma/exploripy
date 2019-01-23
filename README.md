@@ -4,7 +4,7 @@ Pre-Modelling Analysis of the data, by doing various exploratory data analysis a
 **Installation Steps**
 
 ```  
-pip install git+https://github.com/Vibish/exploripy
+pip install ExploriPy
 ``` 
 
 **Important Parameters**
@@ -15,9 +15,10 @@ pip install git+https://github.com/Vibish/exploripy
 **Installation Steps**
 
 ```
-from exploripy import EDA
+from ExploriPy import EDA
 df = pd.read_csv('LoanPrediction.csv',na_values = 'nan')
-CategoricalFeatures = ['Gender','Married','Dependents','Education','Self_Employed','Credit_History','Property_Area','Loan_Status','Loan_Amount_Term']
+CategoricalFeatures = ['Gender', 'Married', 'Dependents', 'Education', 'Self_Employed', 'Credit_History',
+                                 'Property_Area', 'Loan_Status', 'Loan_Amount_Term']
 eda = EDA(df,CategoricalFeatures,title='Data Analysis on a Public Data')
 eda.EDAToHTML()
 ```
