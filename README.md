@@ -25,34 +25,34 @@ eda.EDAToHTML()
 
 
 <p>
-<img src='/ExploriPy/doc_images/Null.PNG'>
+<img src='/ExploriPy/doc_images/Null.PNG'></img>
 
 
 <p>
-<img src='/ExploriPy/doc_images/Continuous.png'>
+<img src='/ExploriPy/doc_images/Continuous.png'></img>
 
 
 <p>
-<img src='/ExploriPy/doc_images/Correlation Heatmap.PNG'>
+<img src='/ExploriPy/doc_images/Correlation Heatmap.PNG'></img>
   
 
 <p>
-<img src='/ExploriPy/doc_images/Scatter Plot.PNG'>
+<img src='/ExploriPy/doc_images/Scatter Plot.PNG'></img>
 
 
 <p>
-<img src='/ExploriPy/doc_images/Feature Reduction.PNG'>
+<img src='/ExploriPy/doc_images/Feature Reduction.PNG'></img>
 
 
 <p>
-<img src='/ExploriPy/doc_images/Categorical.PNG'>
+<img src='/ExploriPy/doc_images/Categorical.PNG'></img>
   
 **Categorical Vs Categorical**
 <p>
 Weight Of Evidence, Information Value, Chi-Sq Test of Independence
-<img src='/ExploriPy/doc_images/WOE IV ChiSq.png'>
+<img src='/ExploriPy/doc_images/WOE IV ChiSq.png'></img>
 
 **Categorical Vs Continuous**
 <p>
 ANOVA and PostHoc Test (Tukey HSD)
-<img src='/ExploriPy/doc_images/Anova TukeyHSD.png'>
+<img src='/ExploriPy/doc_images/Anova TukeyHSD.png'></img>
